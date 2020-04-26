@@ -1,0 +1,23 @@
+{
+    "notifications": {
+        "noOfDrugsHasUnreviewedLRs": 2,
+        "noOfDrugsHasToBeReportedLRs": 2
+    },
+    "drugs": {
+        "Drug 6": {
+            "id": "80",
+            "unReviewedLRs": 74,
+            "toBeReportedLRs": 0
+        },
+        "trade name 1": {
+            "id": "97",
+            "unReviewedLRs": 43,
+            "toBeReportedLRs": 32
+        },
+        "trade name 2": {
+            "id": "98",
+            "unReviewedLRs": 0,
+            "toBeReportedLRs": 63
+        }
+    }
+}
